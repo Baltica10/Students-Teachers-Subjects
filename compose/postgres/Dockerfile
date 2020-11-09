@@ -1,0 +1,5 @@
+FROM library/postgres
+
+ENV POSTGRES_USER roonyx
+ENV POSTGRES_PASSWORD roonyx
+ENV POSTGRES_DB roonyx
